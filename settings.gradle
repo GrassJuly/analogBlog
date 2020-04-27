@@ -1,2 +1,2 @@
 rootProject.name='analogBlog'
-include ':app'
+include ':app', ':frame_basic'
